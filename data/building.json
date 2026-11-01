@@ -1,0 +1,21 @@
+{
+  "name": "Дом у реки",
+  "floors": 2,
+  "rooms": [
+    {
+      "name": "гостиная",
+      "width": 5,
+      "length": 6
+    },
+    {
+      "name": "кухня",
+      "width": 4,
+      "length": 3
+    },
+    {
+      "name": "спальня",
+      "width": 4,
+      "length": 4
+    }
+  ]
+}
